@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package>
+  <name>rosuica</name>
+  <version>1.0.0</version>
+  <description>ROS + SUICA</description>
+
+  <license>BSD</license>
+  <maintainer email="h-yaguchi@jsk.imi.i.u-tokyo.ac.jp">
+    Hiroaki Yaguchi
+  </maintainer>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+</package>
